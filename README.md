@@ -4,7 +4,7 @@
 - Performed data analysis, feature engineering, clustering, anomaly detection, and feature impact analysis on a housing dataset.
 - Aimed to extract meaningful insights, detect patterns, and identify key factors influencing house prices.
 
-## Operations Performed
+## Operations
 - Loaded and explored a dataset with 545 rows and 13 columns, including numerical and categorical features.
 - Verified that the dataset contained no missing values.
 - Created visualizations such as boxplots to detect outliers in numerical features like price, area, bedrooms, and parking.
